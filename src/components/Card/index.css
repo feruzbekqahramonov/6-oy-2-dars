@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+
+  
+  .card {
+    width: 240px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 10px;
+    color: azure;
+  }
+  
+  .name {
+    margin-bottom: 10px;
+  }
+  
+  .country {
+    margin-bottom: 10px;
+  }
+  
+  .language {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .pages {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    margin-bottom: 10px;
+  }
+  
